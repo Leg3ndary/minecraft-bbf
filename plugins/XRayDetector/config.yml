@@ -1,0 +1,29 @@
+ores:
+  IRON_ORE:
+    amount: 30
+    time: 5m
+  GOLD_ORE:
+    amount: 30
+    time: 5m
+  DIAMOND_ORE:
+    amount: 15
+    time: 5m
+  EMERALD_ORE:
+    amount: 10
+    time: 5m
+
+# Prefix of alert message
+prefix: "&b[&9X-Ray Detector&b] "
+
+# This is the permission all players online with the permission node xraydetector.admin will receive
+alert-message: "&6%player% &ehas found &6%amount% %ore% &ein under &6%time%&e! He might be xraying..."
+
+# Header of the info message
+info-message-header: "&7-== &8%player% &7==-"
+
+# Displayed when a player types /xraydetector <player>. This will display all ores in 
+# the config, showing the amount of blocks they've broken in the specified amount of time
+info-message: "&a%ore%: &7%amount% blocks in %time%"
+
+# Play a sound when you receive an alert of someone x-raying
+play-sound: false

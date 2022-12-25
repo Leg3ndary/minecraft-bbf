@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-12-25 15:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-12-25 00:50:08 +0000"
@@ -1011,15 +1017,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2022-12-25 03:31:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-12-25 03:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2022-12-25 03:31:03 +0000"
     },
     "done": true
   },
@@ -1099,6 +1105,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-12-25 02:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-12-25 03:12:19 +0000"
@@ -1108,12 +1120,6 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2022-12-25 03:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2022-12-25 02:53:24 +0000"
     },
     "done": true
   },
@@ -1480,10 +1486,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-12-25 00:47:54 +0000",
+      "cooked_mutton": "2022-12-25 15:49:58 +0000",
       "cooked_beef": "2022-12-25 01:36:04 +0000",
       "beef": "2022-12-25 01:05:03 +0000",
       "porkchop": "2022-12-25 00:32:59 +0000",
       "apple": "2022-12-25 01:16:46 +0000",
+      "potato": "2022-12-25 15:47:10 +0000",
       "mutton": "2022-12-25 00:29:50 +0000",
       "bread": "2022-12-25 00:48:43 +0000",
       "rotten_flesh": "2022-12-25 01:14:02 +0000",
@@ -2220,6 +2228,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-12-25 03:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-12-25 15:56:35 +0000"
     },
     "done": true
   },
