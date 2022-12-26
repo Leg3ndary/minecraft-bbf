@@ -21,4 +21,4 @@ Custom-Server-Icon:
 # The maximum players of the server.
 Server-Maximum-Players:
   Modify: true
-  Maximum-Players: 5
+  Maximum-Players: 10
