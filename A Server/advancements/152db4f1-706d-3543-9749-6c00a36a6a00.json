@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-12-27 00:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-12-25 00:45:56 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-12-27 01:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-12-25 00:33:14 +0000"
@@ -489,19 +501,33 @@
     "criteria": {
       "minecraft:blaze": "2022-12-25 01:00:02 +0000",
       "minecraft:skeleton": "2022-12-25 01:04:31 +0000",
+      "minecraft:ghast": "2022-12-27 00:23:23 +0000",
       "minecraft:magma_cube": "2022-12-25 00:53:45 +0000",
       "minecraft:spider": "2022-12-25 00:33:14 +0000",
       "minecraft:creeper": "2022-12-25 00:33:34 +0000",
       "minecraft:wither_skeleton": "2022-12-25 00:58:05 +0000",
+      "minecraft:ender_dragon": "2022-12-27 01:22:35 +0000",
       "minecraft:piglin": "2022-12-25 02:34:16 +0000",
       "minecraft:enderman": "2022-12-25 00:36:57 +0000",
       "minecraft:zombie": "2022-12-25 00:29:18 +0000"
     },
     "done": false
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2022-12-27 02:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-12-26 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-12-27 01:25:24 +0000"
     },
     "done": true
   },
@@ -664,6 +690,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-12-25 01:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-12-27 01:09:29 +0000"
     },
     "done": true
   },
@@ -1104,11 +1136,18 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-12-27 00:37:39 +0000",
       "minecraft:nether_wastes": "2022-12-25 00:51:43 +0000",
       "minecraft:soul_sand_valley": "2022-12-25 00:55:44 +0000",
       "minecraft:basalt_deltas": "2022-12-25 00:53:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2022-12-27 00:18:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -2039,9 +2078,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2022-12-27 00:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-12-25 00:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-12-27 02:00:02 +0000"
     },
     "done": true
   },
@@ -2195,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-12-27 01:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-12-25 00:51:51 +0000"
@@ -2273,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-12-27 02:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-12-25 02:07:59 +0000"
@@ -2324,6 +2387,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-12-25 02:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-12-27 01:09:29 +0000"
     },
     "done": true
   },

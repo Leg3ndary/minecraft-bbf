@@ -372,6 +372,7 @@
       "rotten_flesh": "2022-12-25 02:32:34 +0000",
       "beetroot": "2022-12-25 01:02:38 +0000",
       "cooked_chicken": "2022-12-25 01:39:32 +0000",
+      "enchanted_golden_apple": "2022-12-27 01:59:13 +0000",
       "carrot": "2022-12-25 03:27:00 +0000"
     },
     "done": false
@@ -957,9 +958,16 @@
       "minecraft:blaze": "2022-12-25 02:26:37 +0000",
       "minecraft:skeleton": "2022-12-25 01:08:07 +0000",
       "minecraft:spider": "2022-12-25 01:36:24 +0000",
+      "minecraft:creeper": "2022-12-27 02:17:52 +0000",
       "minecraft:zombie": "2022-12-25 01:11:52 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2022-12-27 02:01:25 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -1246,6 +1254,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-12-26 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-12-27 01:16:10 +0000"
     },
     "done": true
   },
@@ -1567,6 +1581,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-12-27 01:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-12-25 03:22:25 +0000"
@@ -1883,6 +1903,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-12-27 01:12:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-12-25 02:21:01 +0000"
@@ -1949,6 +1975,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-12-27 01:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2022-12-25 01:19:51 +0000"
@@ -1958,6 +1990,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-12-25 02:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-12-27 01:12:27 +0000"
     },
     "done": true
   },
